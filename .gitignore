@@ -1,0 +1,25 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 大型媒体文件（建议用网盘管理，git只存文字和小图）
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.psd
+*.ai
+*.sketch
+
+# 临时文件
+*.tmp
+*.temp
+~$*
